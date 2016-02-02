@@ -325,7 +325,12 @@ fi
 if [ "$option" == "install" ]; then
   msg "\n Working... this may take a while." "normal"
 
+  ## get_uris requires package list only prepended by download word
+  # we need to remove option (install) and any modifier (-x)
   shift
+  while [ "${1:0:1}" = "-" ]; do
+    shift
+  done
   get_uris "download $@"
 
   # Check if "assume yes" switch is enabled and if yes enable $DOWNLOADBEFORE.
