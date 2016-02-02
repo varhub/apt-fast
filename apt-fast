@@ -210,6 +210,12 @@ _remove_lock()
     rm -f "$LCK_FILE.lock"
 }
 
+# decode url string
+urldecode()
+{
+    local url_encoded="${1//+/ }"
+    printf '%b' "${url_encoded//%/\\x}"
+}
 
 # Check if mirrors are available. And if so add all mirrors to download list.
 get_mirrors(){
@@ -248,6 +254,10 @@ get_uris(){
   # --print-uris format is: 'fileurl' filename filesize checksum_hint:filechecksum
     uri=$(echo "$pkg_uri_info" | cut -d' ' -f1 | tr -d "'")
     filename=$(echo "$pkg_uri_info" | cut -d' ' -f2)
+    # whole uri comes encoded (urlencoded). At least for filename decode it is
+    # mandatory due filename is used for `wget -O <filename>`. Futhermore, md5
+    # patch requires decoded package's name and version to work.
+    filename=$(urldecode $filename)
     filesize=$(echo "$pkg_uri_info" | cut -d' ' -f3)
     checksum=$(echo "$pkg_uri_info" | cut -d' ' -f4 | cut -d':' -f2)
 
