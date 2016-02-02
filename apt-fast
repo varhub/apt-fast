@@ -327,11 +327,11 @@ if [ "$option" == "install" ]; then
 
   ## get_uris requires package list only prepended by download word
   # we need to remove option (install) and any modifier (-x)
-  shift
-  while [ "${1:0:1}" = "-" ]; do
-    shift
-  done
-  get_uris "download $@"
+#  shift
+#  while [ "${1:0:1}" = "-" ]; do
+#    shift
+#  done
+  get_uris "download ${@:1}"
 
   # Check if "assume yes" switch is enabled and if yes enable $DOWNLOADBEFORE.
   #TODO: Get real value over APT items APT::Get::Assume-Yes and
