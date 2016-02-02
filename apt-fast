@@ -245,12 +245,14 @@ get_mirrors(){
 
 # Get the package URLs.
 get_uris(){
+echo "get_uris() '$@'"
   # Add header to overwrite file.
   echo "# apt-fast mirror list: $(date)" > "$DLLIST"
   #NOTE: aptitude doesn't have this functionality, so we use apt-get to get
   #      package URIs.
   apt-get -y --print-uris "$@" | while read pkg_uri_info
   do
+echo "## $pkg_uri_info"
   # --print-uris format is: 'fileurl' filename filesize checksum_hint:filechecksum
     uri=$(echo "$pkg_uri_info" | cut -d' ' -f1 | tr -d "'")
     filename=$(echo "$pkg_uri_info" | cut -d' ' -f2)
