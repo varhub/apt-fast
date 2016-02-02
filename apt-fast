@@ -331,7 +331,9 @@ if [ "$option" == "install" ]; then
 #  while [ "${1:0:1}" = "-" ]; do
 #    shift
 #  done
-  get_uris "download ${@:1}"
+  args=$(echo $@ | sed 's,install,,' | sed 's,-y,,')
+  get_uris $args
+#  get_uris "download" "${@:1}"
 
   # Check if "assume yes" switch is enabled and if yes enable $DOWNLOADBEFORE.
   #TODO: Get real value over APT items APT::Get::Assume-Yes and
