@@ -272,6 +272,11 @@ get_uris(){
     then
       pkg_name=$(echo "$filename" | cut -d'_' -f1)
       pkg_version=$(echo "$filename" | cut -d'_' -f2)
+cat<<EOF
+patching md5 for $filename
+  name:    $pkg_name
+  version: $pkg_version
+EOF
       patch_md5=$(apt-cache show $pkg_name=$pkg_version | grep MD5sum | head -n 1)
       checksum=$(echo $patch_md5 | cut -d' ' -f2)
     fi
@@ -280,6 +285,14 @@ get_uris(){
     #echo " dir=$DLDIR" >> "$DLLIST"
     echo " checksum=md5=$checksum" >> "$DLLIST"
     echo " out=$filename" >> "$DLLIST"
+
+cat<<EOF
+$pkg_uri_info
+  $filename
+  $uri
+  $checksum
+
+EOF
   done
 
   #cat "$DLLIST"
