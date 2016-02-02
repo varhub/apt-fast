@@ -245,7 +245,7 @@ get_mirrors(){
 
 # Get the package URLs.
 get_uris(){
-echo "get_uris() '$@'"
+echo "get_uris()"
   # Add header to overwrite file.
   echo "# apt-fast mirror list: $(date)" > "$DLLIST"
   #NOTE: aptitude doesn't have this functionality, so we use apt-get to get
@@ -302,6 +302,28 @@ EOF
   #exit
 }
 
+# get_all_uris
+# on install, get_uris() must download passed packages and its
+# dependencies. This function fetch all package dependencies and
+# call get_uris to generate a complete download list
+get_all_uris(){
+  # remove all apt-get parameters to obtain plain list of packages
+  # to install
+  case $1 in
+    install|download)
+      shift
+    ;;
+  esac
+  while [ "${1:0:1}" = "-" ]; do
+    shift
+  done
+
+  all_pkgs=$(apt-get install --download-only --just-print $@ | \
+             grep Inst | tr -d '\(' | awk '{print $2 "=" $3}')
+
+  get_uris "download" $all_pkgs
+}
+
 # Create and insert a PID number to lockfile.
 _create_lock
 
@@ -325,15 +347,10 @@ fi
 if [ "$option" == "install" ]; then
   msg "\n Working... this may take a while." "normal"
 
-  ## get_uris requires package list only prepended by download word
-  # we need to remove option (install) and any modifier (-x)
-#  shift
-#  while [ "${1:0:1}" = "-" ]; do
-#    shift
-#  done
-  args=$(echo $@ | sed 's,install,,' | sed 's,-y,,')
-  get_uris $args
-#  get_uris "download" "${@:1}"
+  ## install is a special case. We must gather all required packages
+  # prior create download list. Therefore, action can be mapped as:
+  # install =  gather + download
+  get_all_uris "$@"
 
   # Check if "assume yes" switch is enabled and if yes enable $DOWNLOADBEFORE.
   #TODO: Get real value over APT items APT::Get::Assume-Yes and
