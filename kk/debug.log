@@ -1,0 +1,454 @@
+RAW='http://ppa.launchpad.net/graphics-drivers/ppa/ubuntu/pool/main/n/nvidia-graphics-drivers-355/nvidia-libopencl1-355_355.11-0ubuntu0~gpu14.04.2_amd64.deb' nvidia-libopencl1-355_355.11-0ubuntu0~gpu14.04.2_amd64.deb 19140 SHA256:2c109f214c43c97a83603f6034f5a42561219fc6c22de017f6db7499f4b9adb1
+  URI=http://ppa.launchpad.net/graphics-drivers/ppa/ubuntu/pool/main/n/nvidia-graphics-drivers-355/nvidia-libopencl1-355_355.11-0ubuntu0~gpu14.04.2_amd64.deb
+  checksum=efbe36b227da9e3fcf3d9df0c07757f4
+  filesize=19140
+  out=nvidia-libopencl1-355_355.11-0ubuntu0~gpu14.04.2_amd64.deb
+RAW='http://ppa.launchpad.net/graphics-drivers/ppa/ubuntu/pool/main/n/nvidia-graphics-drivers-358/nvidia-libopencl1-358_358.16-0ubuntu0~gpu14.04.2_amd64.deb' nvidia-libopencl1-358_358.16-0ubuntu0~gpu14.04.2_amd64.deb 19182 SHA256:178d8c99d4699f1dece37fd9d2e3ee1295ea7d76a4123b646cb8e80c82a28620
+  URI=http://ppa.launchpad.net/graphics-drivers/ppa/ubuntu/pool/main/n/nvidia-graphics-drivers-358/nvidia-libopencl1-358_358.16-0ubuntu0~gpu14.04.2_amd64.deb
+  checksum=bd4eabc106cffaa5ad81083f3f27b0fe
+  filesize=19182
+  out=nvidia-libopencl1-358_358.16-0ubuntu0~gpu14.04.2_amd64.deb
+RAW='http://ppa.launchpad.net/graphics-drivers/ppa/ubuntu/pool/main/n/nvidia-graphics-drivers-361/nvidia-libopencl1-361_361.18-0ubuntu0~gpu14.04.1_amd64.deb' nvidia-libopencl1-361_361.18-0ubuntu0~gpu14.04.1_amd64.deb 19548 SHA256:b141fb31abd658b2c435bf03eab3830648222af4ff890b32115e508afd01c0e5
+  URI=http://ppa.launchpad.net/graphics-drivers/ppa/ubuntu/pool/main/n/nvidia-graphics-drivers-361/nvidia-libopencl1-361_361.18-0ubuntu0~gpu14.04.1_amd64.deb
+  checksum=1f2509955f047b7e1b3be048bf24eccd
+  filesize=19548
+  out=nvidia-libopencl1-361_361.18-0ubuntu0~gpu14.04.1_amd64.deb
+RAW='http://es.archive.ubuntu.com/ubuntu/pool/main/o/opencc/libopencc-dbg_0.4.3-2build1_amd64.deb' libopencc-dbg_0.4.3-2build1_amd64.deb 32174 SHA256:0d2efc7373cf285d423ce2f90d8d89ec25fc30975554ec0518267f908068686b
+  URI=http://es.archive.ubuntu.com/ubuntu/pool/main/o/opencc/libopencc-dbg_0.4.3-2build1_amd64.deb
+  checksum=8fb71e71db416baff9f136177a4bea09
+  filesize=32174
+  out=libopencc-dbg_0.4.3-2build1_amd64.deb
+RAW='http://es.archive.ubuntu.com/ubuntu/pool/main/o/opencc/libopencc-dev_0.4.3-2build1_amd64.deb' libopencc-dev_0.4.3-2build1_amd64.deb 18058 SHA256:bceb5b987cd05eda3a1a0dd6868326e03cb49acb95afcfdebd362297f9fb9c95
+  URI=http://es.archive.ubuntu.com/ubuntu/pool/main/o/opencc/libopencc-dev_0.4.3-2build1_amd64.deb
+  checksum=28e36ed0e49709f2fb90d033a1fc2571
+  filesize=18058
+  out=libopencc-dev_0.4.3-2build1_amd64.deb
+RAW='http://es.archive.ubuntu.com/ubuntu/pool/main/o/opencc/libopencc1_0.4.3-2build1_amd64.deb' libopencc1_0.4.3-2build1_amd64.deb 613972 SHA256:5a7cd19c09ffdbafb7880953cca5708e98f1ab83df3c98cb539269b81cc3a1cc
+  URI=http://es.archive.ubuntu.com/ubuntu/pool/main/o/opencc/libopencc1_0.4.3-2build1_amd64.deb
+  checksum=f115d8379f96d1f8fd2030b314249cb4
+  filesize=613972
+  out=libopencc1_0.4.3-2build1_amd64.deb
+RAW='http://es.archive.ubuntu.com/ubuntu/pool/main/o/opencryptoki/libopencryptoki-dev_2.3.1+dfsg-3ubuntu5_amd64.deb' libopencryptoki-dev_2.3.1+dfsg-3ubuntu5_amd64.deb 25742 SHA256:9c9eba86c8a9f63f71cadbd88f66bde914c1b1c3629c2426f965a9dcd98b004c
+  URI=http://es.archive.ubuntu.com/ubuntu/pool/main/o/opencryptoki/libopencryptoki-dev_2.3.1+dfsg-3ubuntu5_amd64.deb
+  checksum=02906834945af4eda28131e4289a48a1
+  filesize=25742
+  out=libopencryptoki-dev_2.3.1+dfsg-3ubuntu5_amd64.deb
+RAW='http://es.archive.ubuntu.com/ubuntu/pool/main/o/opencryptoki/libopencryptoki0_2.3.1+dfsg-3ubuntu5_amd64.deb' libopencryptoki0_2.3.1+dfsg-3ubuntu5_amd64.deb 254820 SHA256:a889b890b50630586e33742e30151e5d41469778f98f1609eb0f9a8fbc4051ac
+  URI=http://es.archive.ubuntu.com/ubuntu/pool/main/o/opencryptoki/libopencryptoki0_2.3.1+dfsg-3ubuntu5_amd64.deb
+  checksum=84378fa65076346d5f9cb4d932cfa3f9
+  filesize=254820
+  out=libopencryptoki0_2.3.1+dfsg-3ubuntu5_amd64.deb
+RAW='http://es.archive.ubuntu.com/ubuntu/pool/universe/o/opencolorio/libopencolorio-dev_1.0.8+repack2~dfsg0-2.1ubuntu2_amd64.deb' libopencolorio-dev_1.0.8+repack2~dfsg0-2.1ubuntu2_amd64.deb 18312 SHA256:2554d403ccd2345ef4404ffcbcb8fd6a3504700546b155538322a4e116378db6
+  URI=http://es.archive.ubuntu.com/ubuntu/pool/universe/o/opencolorio/libopencolorio-dev_1.0.8+repack2~dfsg0-2.1ubuntu2_amd64.deb
+  checksum=874cc6fdc56e42794da38601504985f9
+  filesize=18312
+  out=libopencolorio-dev_1.0.8+repack2~dfsg0-2.1ubuntu2_amd64.deb
+RAW='http://es.archive.ubuntu.com/ubuntu/pool/universe/o/opencolorio/libopencolorio1_1.0.8+repack2~dfsg0-2.1ubuntu2_amd64.deb' libopencolorio1_1.0.8+repack2~dfsg0-2.1ubuntu2_amd64.deb 277824 SHA256:f3e8e7c99f796e00b63935a76cedc8780404a2f892998f1914c696ede5161d42
+  URI=http://es.archive.ubuntu.com/ubuntu/pool/universe/o/opencolorio/libopencolorio1_1.0.8+repack2~dfsg0-2.1ubuntu2_amd64.deb
+  checksum=5390a582299e4fc3e9820981fcb3504f
+  filesize=277824
+  out=libopencolorio1_1.0.8+repack2~dfsg0-2.1ubuntu2_amd64.deb
+RAW='http://es.archive.ubuntu.com/ubuntu/pool/universe/o/openconnect/libopenconnect-dev_5.02-1_amd64.deb' libopenconnect-dev_5.02-1_amd64.deb 5750 SHA256:8216ba27df8695afa8786a6028e892a3fa8c103d08b396a3652ae4d82c64e9cd
+  URI=http://es.archive.ubuntu.com/ubuntu/pool/universe/o/openconnect/libopenconnect-dev_5.02-1_amd64.deb
+  checksum=5e4f4564cc7be2b1002de7bf13af01ef
+  filesize=5750
+  out=libopenconnect-dev_5.02-1_amd64.deb
+RAW='http://es.archive.ubuntu.com/ubuntu/pool/universe/o/openconnect/libopenconnect2_5.02-1_amd64.deb' libopenconnect2_5.02-1_amd64.deb 37010 SHA256:440be8fe3352ce79afc4dd0b108ff88b55b1f553f9baabc12a4a31b0ad700b0d
+  URI=http://es.archive.ubuntu.com/ubuntu/pool/universe/o/openconnect/libopenconnect2_5.02-1_amd64.deb
+  checksum=f27b2217d9e15ea50db08028ea50a948
+  filesize=37010
+  out=libopenconnect2_5.02-1_amd64.deb
+RAW='http://es.archive.ubuntu.com/ubuntu/pool/universe/o/opencore-amr/libopencore-amrnb-dev_0.1.3-2ubuntu1_amd64.deb' libopencore-amrnb-dev_0.1.3-2ubuntu1_amd64.deb 345986 SHA256:12cfea9d1593de033cc249894f36e1059b1024e50c5857991cf5637dad199c3c
+  URI=http://es.archive.ubuntu.com/ubuntu/pool/universe/o/opencore-amr/libopencore-amrnb-dev_0.1.3-2ubuntu1_amd64.deb
+  checksum=ff810f54622257430b4070ee6c890c8a
+  filesize=345986
+  out=libopencore-amrnb-dev_0.1.3-2ubuntu1_amd64.deb
+RAW='http://es.archive.ubuntu.com/ubuntu/pool/universe/o/opencore-amr/libopencore-amrnb0_0.1.3-2ubuntu1_amd64.deb' libopencore-amrnb0_0.1.3-2ubuntu1_amd64.deb 90422 SHA256:822acb6b971902d258a0ef862a37b108b476a9bca0e6e1a7e4a5ae4b5a179b81
+  URI=http://es.archive.ubuntu.com/ubuntu/pool/universe/o/opencore-amr/libopencore-amrnb0_0.1.3-2ubuntu1_amd64.deb
+  checksum=1efe839a3812099143076c0e7187d2fb
+  filesize=90422
+  out=libopencore-amrnb0_0.1.3-2ubuntu1_amd64.deb
+RAW='http://es.archive.ubuntu.com/ubuntu/pool/universe/o/opencore-amr/libopencore-amrnb0-dbg_0.1.3-2ubuntu1_amd64.deb' libopencore-amrnb0-dbg_0.1.3-2ubuntu1_amd64.deb 233058 SHA256:63902f345b82228164fe5aeb0d299f9339325df1493fbe2c1a2ebaf6e3f7c7af
+  URI=http://es.archive.ubuntu.com/ubuntu/pool/universe/o/opencore-amr/libopencore-amrnb0-dbg_0.1.3-2ubuntu1_amd64.deb
+  checksum=094deb2ceb842309015baa75e35689f8
+  filesize=233058
+  out=libopencore-amrnb0-dbg_0.1.3-2ubuntu1_amd64.deb
+RAW='http://es.archive.ubuntu.com/ubuntu/pool/universe/o/opencore-amr/libopencore-amrwb-dev_0.1.3-2ubuntu1_amd64.deb' libopencore-amrwb-dev_0.1.3-2ubuntu1_amd64.deb 138610 SHA256:0ccb58c25030b1e9b3d706c7efc4f75bee34f90804fd91e2ffde190276fc8b45
+  URI=http://es.archive.ubuntu.com/ubuntu/pool/universe/o/opencore-amr/libopencore-amrwb-dev_0.1.3-2ubuntu1_amd64.deb
+  checksum=1e2eeb94637e3afc7836fde5f4a33a5e
+  filesize=138610
+  out=libopencore-amrwb-dev_0.1.3-2ubuntu1_amd64.deb
+RAW='http://es.archive.ubuntu.com/ubuntu/pool/universe/o/opencore-amr/libopencore-amrwb0_0.1.3-2ubuntu1_amd64.deb' libopencore-amrwb0_0.1.3-2ubuntu1_amd64.deb 45348 SHA256:faddafd8581b26a6d2130cadb4517ea4e0993137f9afa7ef85074b080766cc9b
+  URI=http://es.archive.ubuntu.com/ubuntu/pool/universe/o/opencore-amr/libopencore-amrwb0_0.1.3-2ubuntu1_amd64.deb
+  checksum=112381729879b01d5e5de71949327208
+  filesize=45348
+  out=libopencore-amrwb0_0.1.3-2ubuntu1_amd64.deb
+RAW='http://es.archive.ubuntu.com/ubuntu/pool/universe/o/opencore-amr/libopencore-amrwb0-dbg_0.1.3-2ubuntu1_amd64.deb' libopencore-amrwb0-dbg_0.1.3-2ubuntu1_amd64.deb 91742 SHA256:92a6319b43960bfaa4d14c99db76069fedaa1370db7707483f47d23c1cb58ffc
+  URI=http://es.archive.ubuntu.com/ubuntu/pool/universe/o/opencore-amr/libopencore-amrwb0-dbg_0.1.3-2ubuntu1_amd64.deb
+  checksum=5f4d15f82d7f91236120973428fe4cbe
+  filesize=91742
+  out=libopencore-amrwb0-dbg_0.1.3-2ubuntu1_amd64.deb
+RAW='http://es.archive.ubuntu.com/ubuntu/pool/universe/o/opencsg/libopencsg-dev_1.3.2-2build3_amd64.deb' libopencsg-dev_1.3.2-2build3_amd64.deb 5420 SHA256:bd60d565da1b1fd5f39071bb4a45ae5605d6db964be21f5f85ac044636d37179
+  URI=http://es.archive.ubuntu.com/ubuntu/pool/universe/o/opencsg/libopencsg-dev_1.3.2-2build3_amd64.deb
+  checksum=01d355080bf0ccbe9926e907cf7b9b30
+  filesize=5420
+  out=libopencsg-dev_1.3.2-2build3_amd64.deb
+RAW='http://es.archive.ubuntu.com/ubuntu/pool/universe/o/opencsg/libopencsg-example_1.3.2-2build3_amd64.deb' libopencsg-example_1.3.2-2build3_amd64.deb 10090 SHA256:0262208253f1819aacb2a5c6dad13b6ff932b1edf1f269c1eb5bc9b0b33073e5
+  URI=http://es.archive.ubuntu.com/ubuntu/pool/universe/o/opencsg/libopencsg-example_1.3.2-2build3_amd64.deb
+  checksum=32f6ace9102acc9058741693325e2a32
+  filesize=10090
+  out=libopencsg-example_1.3.2-2build3_amd64.deb
+RAW='http://es.archive.ubuntu.com/ubuntu/pool/universe/o/opencsg/libopencsg1_1.3.2-2build3_amd64.deb' libopencsg1_1.3.2-2build3_amd64.deb 183404 SHA256:e25633a698a7765fd68fc2ed5d62aa14a865f5991e16894e9198284f5a5ff7b8
+  URI=http://es.archive.ubuntu.com/ubuntu/pool/universe/o/opencsg/libopencsg1_1.3.2-2build3_amd64.deb
+  checksum=72983d4252acd774ca0f4c26943d1304
+  filesize=183404
+  out=libopencsg1_1.3.2-2build3_amd64.deb
+RAW='http://es.archive.ubuntu.com/ubuntu/pool/universe/o/opencsg/libopencsg1-dbg_1.3.2-2build3_amd64.deb' libopencsg1-dbg_1.3.2-2build3_amd64.deb 11086 SHA256:dc5c29fcd44dd332a8383f9a810fab8197a867102464559653168b30c41a6190
+  URI=http://es.archive.ubuntu.com/ubuntu/pool/universe/o/opencsg/libopencsg1-dbg_1.3.2-2build3_amd64.deb
+  checksum=398897c9a9e9f5a7c2ea3e48c5e5d862
+  filesize=11086
+  out=libopencsg1-dbg_1.3.2-2build3_amd64.deb
+RAW='http://es.archive.ubuntu.com/ubuntu/pool/universe/o/opencsv/libopencsv-java_2.3-1_all.deb' libopencsv-java_2.3-1_all.deb 20214 SHA256:6aa337d60c4e44b53732e737d85873ffc819f3e41c48456b4ab863f6b4ffefa5
+  URI=http://es.archive.ubuntu.com/ubuntu/pool/universe/o/opencsv/libopencsv-java_2.3-1_all.deb
+  checksum=3966d217ed2c6ea09804018438aa616d
+  filesize=20214
+  out=libopencsv-java_2.3-1_all.deb
+RAW='http://es.archive.ubuntu.com/ubuntu/pool/universe/o/opencsv/libopencsv-java-doc_2.3-1_all.deb' libopencsv-java-doc_2.3-1_all.deb 133064 SHA256:899a33342168858443a1c781fa1bc026dce42d488c89afde490b9a1d20a84dd8
+  URI=http://es.archive.ubuntu.com/ubuntu/pool/universe/o/opencsv/libopencsv-java-doc_2.3-1_all.deb
+  checksum=9b9ada12863e94b79b58dbd1ac29c564
+  filesize=133064
+  out=libopencsv-java-doc_2.3-1_all.deb
+RAW='http://es.archive.ubuntu.com/ubuntu/pool/universe/o/openct/libopenct1_0.6.20-1.2ubuntu1_amd64.deb' libopenct1_0.6.20-1.2ubuntu1_amd64.deb 23202 SHA256:2e06ec3039baa2dccf697981d4ed2bbf75841d378de2ecb8a95af35688218a46
+  URI=http://es.archive.ubuntu.com/ubuntu/pool/universe/o/openct/libopenct1_0.6.20-1.2ubuntu1_amd64.deb
+  checksum=29b414305e0b1214141d7888ce7fbfcf
+  filesize=23202
+  out=libopenct1_0.6.20-1.2ubuntu1_amd64.deb
+RAW='http://es.archive.ubuntu.com/ubuntu/pool/universe/o/openct/libopenct1-dbg_0.6.20-1.2ubuntu1_amd64.deb' libopenct1-dbg_0.6.20-1.2ubuntu1_amd64.deb 350572 SHA256:7e7ac20f724b0a0aaa6317a0615dc286ed706b0d9d83069e35a04e2a3dce7c76
+  URI=http://es.archive.ubuntu.com/ubuntu/pool/universe/o/openct/libopenct1-dbg_0.6.20-1.2ubuntu1_amd64.deb
+  checksum=c62de9eec461b3ead0c6e27ec29365a5
+  filesize=350572
+  out=libopenct1-dbg_0.6.20-1.2ubuntu1_amd64.deb
+RAW='http://es.archive.ubuntu.com/ubuntu/pool/universe/o/openct/libopenct1-dev_0.6.20-1.2ubuntu1_amd64.deb' libopenct1-dev_0.6.20-1.2ubuntu1_amd64.deb 26658 SHA256:91cf3280f88866594f902fde993866e7206f5e7772840b3fcf91fcd21b76245e
+  URI=http://es.archive.ubuntu.com/ubuntu/pool/universe/o/openct/libopenct1-dev_0.6.20-1.2ubuntu1_amd64.deb
+  checksum=8530452d300aa3324ab90c875e124e58
+  filesize=26658
+  out=libopenct1-dev_0.6.20-1.2ubuntu1_amd64.deb
+RAW='http://es.archive.ubuntu.com/ubuntu/pool/universe/o/opengtl/libopenctl0.8_0.9.18-0ubuntu1_amd64.deb' libopenctl0.8_0.9.18-0ubuntu1_amd64.deb 50860 SHA256:985e54fa64af2543d1d8dca51ca14bee1de9b6b584187e819f440bff08b8b3e4
+  URI=http://es.archive.ubuntu.com/ubuntu/pool/universe/o/opengtl/libopenctl0.8_0.9.18-0ubuntu1_amd64.deb
+  checksum=3020dc7962adf481112235d336451f4a
+  filesize=50860
+  out=libopenctl0.8_0.9.18-0ubuntu1_amd64.deb
+RAW='http://es.archive.ubuntu.com/ubuntu/pool/universe/o/openctm/libopenctm-dev_1.0.3+dfsg1-1build1_amd64.deb' libopenctm-dev_1.0.3+dfsg1-1build1_amd64.deb 17300 SHA256:3e00274cde51b6b184559460d711904e8f8a2da2625ec4822676f57d60515c3c
+  URI=http://es.archive.ubuntu.com/ubuntu/pool/universe/o/openctm/libopenctm-dev_1.0.3+dfsg1-1build1_amd64.deb
+  checksum=c922c19431edb7ff1a29aa4bc6a4eee5
+  filesize=17300
+  out=libopenctm-dev_1.0.3+dfsg1-1build1_amd64.deb
+RAW='http://es.archive.ubuntu.com/ubuntu/pool/universe/o/openctm/libopenctm1_1.0.3+dfsg1-1build1_amd64.deb' libopenctm1_1.0.3+dfsg1-1build1_amd64.deb 46950 SHA256:a73aebe6c916accf7e22047942b638e13015d08fa9893f3e2b543c56a7ad6431
+  URI=http://es.archive.ubuntu.com/ubuntu/pool/universe/o/openctm/libopenctm1_1.0.3+dfsg1-1build1_amd64.deb
+  checksum=99dd968b93bbf1ee18dcb0223fc8c91d
+  filesize=46950
+  out=libopenctm1_1.0.3+dfsg1-1build1_amd64.deb
+RAW='http://es.archive.ubuntu.com/ubuntu/pool/universe/o/opencv/libopencv2.4-java_2.4.8+dfsg1-2ubuntu1_all.deb' libopencv2.4-java_2.4.8+dfsg1-2ubuntu1_all.deb 432632 SHA256:7a305e8e329bd089a2b3b6e552f79e99b2970922fda85d981a3bb2f86e88af78
+  URI=http://es.archive.ubuntu.com/ubuntu/pool/universe/o/opencv/libopencv2.4-java_2.4.8+dfsg1-2ubuntu1_all.deb
+  checksum=4fa6b928b57f2fd7709aabbb649f81e5
+  filesize=432632
+  out=libopencv2.4-java_2.4.8+dfsg1-2ubuntu1_all.deb
+RAW='http://es.archive.ubuntu.com/ubuntu/pool/universe/o/opencv/libopencv2.4-jni_2.4.8+dfsg1-2ubuntu1_amd64.deb' libopencv2.4-jni_2.4.8+dfsg1-2ubuntu1_amd64.deb 144206 SHA256:6c09a786319c3fc26585bed4b1c6a8d404e9906b798590ac0e16550fdb80a278
+  URI=http://es.archive.ubuntu.com/ubuntu/pool/universe/o/opencv/libopencv2.4-jni_2.4.8+dfsg1-2ubuntu1_amd64.deb
+  checksum=76521b69b4f13320e45b57798c0f87fa
+  filesize=144206
+  out=libopencv2.4-jni_2.4.8+dfsg1-2ubuntu1_amd64.deb
+RAW='http://es.archive.ubuntu.com/ubuntu/pool/universe/o/ocl-icd/ocl-icd-libopencl1_2.1.3-4_amd64.deb' ocl-icd-libopencl1_2.1.3-4_amd64.deb 28148 SHA256:26b00d5cc561c9798046a1e19d45aefc047dad2d80e2ec29bc44d551233667dd
+  URI=http://es.archive.ubuntu.com/ubuntu/pool/universe/o/ocl-icd/ocl-icd-libopencl1_2.1.3-4_amd64.deb
+  checksum=3ad1a139f74c6cd4df95e3a31af142ff
+  filesize=28148
+  out=ocl-icd-libopencl1_2.1.3-4_amd64.deb
+RAW='http://es.archive.ubuntu.com/ubuntu/pool/restricted/n/nvidia-graphics-drivers-304/nvidia-libopencl1-304_304.131-0ubuntu0.14.04.1_amd64.deb' nvidia-libopencl1-304_304.131-0ubuntu0.14.04.1_amd64.deb 16524 SHA256:52c0289b98627a54bec43ad1d55ff9b2a45abfc3bd28d143198d99d2c5bbf6d0
+  URI=http://es.archive.ubuntu.com/ubuntu/pool/restricted/n/nvidia-graphics-drivers-304/nvidia-libopencl1-304_304.131-0ubuntu0.14.04.1_amd64.deb
+  checksum=83c4a99574c944df4158419d21b8d465
+  filesize=16524
+  out=nvidia-libopencl1-304_304.131-0ubuntu0.14.04.1_amd64.deb
+RAW='http://es.archive.ubuntu.com/ubuntu/pool/restricted/n/nvidia-graphics-drivers-304-updates/nvidia-libopencl1-304-updates_304.131-0ubuntu0.14.04.1_amd64.deb' nvidia-libopencl1-304-updates_304.131-0ubuntu0.14.04.1_amd64.deb 16546 SHA256:2a25a79145fc893dabf4aa451412c4242c9b0b790030d789bf11be0497705de8
+  URI=http://es.archive.ubuntu.com/ubuntu/pool/restricted/n/nvidia-graphics-drivers-304-updates/nvidia-libopencl1-304-updates_304.131-0ubuntu0.14.04.1_amd64.deb
+  checksum=e3fc9df8523188a9cffa2dafd2462739
+  filesize=16546
+  out=nvidia-libopencl1-304-updates_304.131-0ubuntu0.14.04.1_amd64.deb
+RAW='http://es.archive.ubuntu.com/ubuntu/pool/restricted/n/nvidia-graphics-drivers-340/nvidia-libopencl1-331_340.96-0ubuntu0.14.04.1_amd64.deb' nvidia-libopencl1-331_340.96-0ubuntu0.14.04.1_amd64.deb 5968 SHA256:0b3a12a9112770b0f5656831b34fe9d42143faf1ea5422dfd6a763cdf01d1f7a
+  URI=http://es.archive.ubuntu.com/ubuntu/pool/restricted/n/nvidia-graphics-drivers-340/nvidia-libopencl1-331_340.96-0ubuntu0.14.04.1_amd64.deb
+  checksum=fddc39890a5049907e333ca3e14794a1
+  filesize=5968
+  out=nvidia-libopencl1-331_340.96-0ubuntu0.14.04.1_amd64.deb
+RAW='http://es.archive.ubuntu.com/ubuntu/pool/restricted/n/nvidia-graphics-drivers-340-updates/nvidia-libopencl1-331-updates_340.96-0ubuntu0.14.04.1_amd64.deb' nvidia-libopencl1-331-updates_340.96-0ubuntu0.14.04.1_amd64.deb 4828 SHA256:ac41c5981f1abf6b555eaa6f135e2637f6f582d20f086b0eaf4d98678f686fa5
+  URI=http://es.archive.ubuntu.com/ubuntu/pool/restricted/n/nvidia-graphics-drivers-340-updates/nvidia-libopencl1-331-updates_340.96-0ubuntu0.14.04.1_amd64.deb
+  checksum=a1e8108811ffdbc701f17ba87f6ca9a4
+  filesize=4828
+  out=nvidia-libopencl1-331-updates_340.96-0ubuntu0.14.04.1_amd64.deb
+RAW='http://es.archive.ubuntu.com/ubuntu/pool/restricted/n/nvidia-graphics-drivers-340/nvidia-libopencl1-340_340.96-0ubuntu0.14.04.1_amd64.deb' nvidia-libopencl1-340_340.96-0ubuntu0.14.04.1_amd64.deb 16466 SHA256:3e473f93c235e8bc676089e577e63ef167857eba41bd63c60217bb74d4b1b2e2
+  URI=http://es.archive.ubuntu.com/ubuntu/pool/restricted/n/nvidia-graphics-drivers-340/nvidia-libopencl1-340_340.96-0ubuntu0.14.04.1_amd64.deb
+  checksum=eded20aaf7de58ddf076f8b7ed220bf4
+  filesize=16466
+  out=nvidia-libopencl1-340_340.96-0ubuntu0.14.04.1_amd64.deb
+RAW='http://es.archive.ubuntu.com/ubuntu/pool/restricted/n/nvidia-graphics-drivers-340-updates/nvidia-libopencl1-340-updates_340.96-0ubuntu0.14.04.1_amd64.deb' nvidia-libopencl1-340-updates_340.96-0ubuntu0.14.04.1_amd64.deb 17616 SHA256:bf87b535d3bb7ff66ab2338945370c156fb45d4e5791f5d893b7f906eee0f6fc
+  URI=http://es.archive.ubuntu.com/ubuntu/pool/restricted/n/nvidia-graphics-drivers-340-updates/nvidia-libopencl1-340-updates_340.96-0ubuntu0.14.04.1_amd64.deb
+  checksum=55f77a9833032accdf3ba6a3d87cbd74
+  filesize=17616
+  out=nvidia-libopencl1-340-updates_340.96-0ubuntu0.14.04.1_amd64.deb
+RAW='http://es.archive.ubuntu.com/ubuntu/pool/restricted/n/nvidia-graphics-drivers-352/nvidia-libopencl1-346_352.63-0ubuntu0.14.04.1_amd64.deb' nvidia-libopencl1-346_352.63-0ubuntu0.14.04.1_amd64.deb 4818 SHA256:2a059a6ecd7f0ea046e43f6e5957aeac5cb70e6f3dde13d970cc3c6d35ea39a9
+  URI=http://es.archive.ubuntu.com/ubuntu/pool/restricted/n/nvidia-graphics-drivers-352/nvidia-libopencl1-346_352.63-0ubuntu0.14.04.1_amd64.deb
+  checksum=f78c0e86601de66706ae85cc9ec84410
+  filesize=4818
+  out=nvidia-libopencl1-346_352.63-0ubuntu0.14.04.1_amd64.deb
+RAW='http://es.archive.ubuntu.com/ubuntu/pool/restricted/n/nvidia-graphics-drivers-352-updates/nvidia-libopencl1-346-updates_352.63-0ubuntu0.14.04.1_amd64.deb' nvidia-libopencl1-346-updates_352.63-0ubuntu0.14.04.1_amd64.deb 4832 SHA256:060bc1115680b8899a950e8dd00c9f2bbcd2628115fc12a5b188b60860ad83ee
+  URI=http://es.archive.ubuntu.com/ubuntu/pool/restricted/n/nvidia-graphics-drivers-352-updates/nvidia-libopencl1-346-updates_352.63-0ubuntu0.14.04.1_amd64.deb
+  checksum=0b46654adb000880fe35afc88671bb45
+  filesize=4832
+  out=nvidia-libopencl1-346-updates_352.63-0ubuntu0.14.04.1_amd64.deb
+RAW='http://es.archive.ubuntu.com/ubuntu/pool/multiverse/n/nvidia-graphics-drivers-352/nvidia-libopencl1-352_352.63-0ubuntu0.14.04.1_amd64.deb' nvidia-libopencl1-352_352.63-0ubuntu0.14.04.1_amd64.deb 18132 SHA256:4b240cb576b5f7ed4bfcfd8046c7e2222a8070ecc3a5712b01152a44510705c5
+  URI=http://es.archive.ubuntu.com/ubuntu/pool/multiverse/n/nvidia-graphics-drivers-352/nvidia-libopencl1-352_352.63-0ubuntu0.14.04.1_amd64.deb
+  checksum=cf39ea1535d79d7e948abfbe58fd7cd0
+  filesize=18132
+  out=nvidia-libopencl1-352_352.63-0ubuntu0.14.04.1_amd64.deb
+RAW='http://es.archive.ubuntu.com/ubuntu/pool/multiverse/n/nvidia-graphics-drivers-352-updates/nvidia-libopencl1-352-updates_352.63-0ubuntu0.14.04.1_amd64.deb' nvidia-libopencl1-352-updates_352.63-0ubuntu0.14.04.1_amd64.deb 18148 SHA256:926d9692c7c44bb80a3eacfc602bc9c10f9d7261221594f95ba7b90f8fc7de7b
+  URI=http://es.archive.ubuntu.com/ubuntu/pool/multiverse/n/nvidia-graphics-drivers-352-updates/nvidia-libopencl1-352-updates_352.63-0ubuntu0.14.04.1_amd64.deb
+  checksum=1977e17ca71d8d6f8c2f278b32807260
+  filesize=18148
+  out=nvidia-libopencl1-352-updates_352.63-0ubuntu0.14.04.1_amd64.deb
+
+01/29 19:59:06 [NOTICE] Removed the defunct control file /home/varribas/git/apt-fast/kk/libopencc-dev_0.4.3-2build1_amd64.deb.aria2 because the download file /home/varribas/git/apt-fast/kk/libopencc-dev_0.4.3-2build1_amd64.deb doesn't exist.
+
+01/29 19:59:06 [NOTICE] La verificación ha acabado satisfactoriamente. fichero=/home/varribas/git/apt-fast/kk/libopencc-dbg_0.4.3-2build1_amd64.deb
+
+01/29 19:59:06 [NOTICE] Descarga completa: /home/varribas/git/apt-fast/kk/libopencc-dbg_0.4.3-2build1_amd64.deb
+
+01/29 19:59:06 [NOTICE] Removed the defunct control file /home/varribas/git/apt-fast/kk/libopencc1_0.4.3-2build1_amd64.deb.aria2 because the download file /home/varribas/git/apt-fast/kk/libopencc1_0.4.3-2build1_amd64.deb doesn't exist.
+
+01/29 19:59:07 [NOTICE] La verificación ha acabado satisfactoriamente. fichero=/home/varribas/git/apt-fast/kk/nvidia-libopencl1-361_361.18-0ubuntu0~gpu14.04.1_amd64.deb
+
+01/29 19:59:07 [NOTICE] Descarga completa: /home/varribas/git/apt-fast/kk/nvidia-libopencl1-361_361.18-0ubuntu0~gpu14.04.1_amd64.deb
+
+01/29 19:59:07 [NOTICE] La verificación ha acabado satisfactoriamente. fichero=/home/varribas/git/apt-fast/kk/nvidia-libopencl1-358_358.16-0ubuntu0~gpu14.04.2_amd64.deb
+
+01/29 19:59:07 [NOTICE] Descarga completa: /home/varribas/git/apt-fast/kk/nvidia-libopencl1-358_358.16-0ubuntu0~gpu14.04.2_amd64.deb
+
+01/29 19:59:07 [NOTICE] Removed the defunct control file /home/varribas/git/apt-fast/kk/libopencryptoki0_2.3.1+dfsg-3ubuntu5_amd64.deb.aria2 because the download file /home/varribas/git/apt-fast/kk/libopencryptoki0_2.3.1+dfsg-3ubuntu5_amd64.deb doesn't exist.
+
+01/29 19:59:07 [NOTICE] La verificación ha acabado satisfactoriamente. fichero=/home/varribas/git/apt-fast/kk/libopencryptoki-dev_2.3.1+dfsg-3ubuntu5_amd64.deb
+
+01/29 19:59:07 [NOTICE] Descarga completa: /home/varribas/git/apt-fast/kk/libopencryptoki-dev_2.3.1+dfsg-3ubuntu5_amd64.deb
+
+01/29 19:59:07 [NOTICE] Removed the defunct control file /home/varribas/git/apt-fast/kk/libopencolorio-dev_1.0.8+repack2~dfsg0-2.1ubuntu2_amd64.deb.aria2 because the download file /home/varribas/git/apt-fast/kk/libopencolorio-dev_1.0.8+repack2~dfsg0-2.1ubuntu2_amd64.deb doesn't exist.
+
+01/29 19:59:07 [NOTICE] La verificación ha acabado satisfactoriamente. fichero=/home/varribas/git/apt-fast/kk/nvidia-libopencl1-355_355.11-0ubuntu0~gpu14.04.2_amd64.deb
+
+01/29 19:59:07 [NOTICE] Descarga completa: /home/varribas/git/apt-fast/kk/nvidia-libopencl1-355_355.11-0ubuntu0~gpu14.04.2_amd64.deb
+
+01/29 19:59:07 [NOTICE] Removed the defunct control file /home/varribas/git/apt-fast/kk/libopencolorio1_1.0.8+repack2~dfsg0-2.1ubuntu2_amd64.deb.aria2 because the download file /home/varribas/git/apt-fast/kk/libopencolorio1_1.0.8+repack2~dfsg0-2.1ubuntu2_amd64.deb doesn't exist.
+
+01/29 19:59:07 [NOTICE] La verificación ha acabado satisfactoriamente. fichero=/home/varribas/git/apt-fast/kk/libopencolorio-dev_1.0.8+repack2~dfsg0-2.1ubuntu2_amd64.deb
+
+01/29 19:59:07 [NOTICE] Descarga completa: /home/varribas/git/apt-fast/kk/libopencolorio-dev_1.0.8+repack2~dfsg0-2.1ubuntu2_amd64.deb
+[DL:521KiB UL:0B][#d882c9 0B/17KiB(0%)][#ce7d47 176KiB/599KiB(29%)][#f661dd 32KiB/248KiB(12%)][#464155 64KiB/271KiB(23%)][#f59b12 0B/0B]
+
+01/29 19:59:07 [NOTICE] La verificación ha acabado satisfactoriamente. fichero=/home/varribas/git/apt-fast/kk/libopenconnect-dev_5.02-1_amd64.deb
+
+01/29 19:59:07 [NOTICE] Descarga completa: /home/varribas/git/apt-fast/kk/libopenconnect-dev_5.02-1_amd64.deb
+
+01/29 19:59:07 [NOTICE] La verificación ha acabado satisfactoriamente. fichero=/home/varribas/git/apt-fast/kk/libopencc-dev_0.4.3-2build1_amd64.deb
+
+01/29 19:59:07 [NOTICE] Descarga completa: /home/varribas/git/apt-fast/kk/libopencc-dev_0.4.3-2build1_amd64.deb
+
+01/29 19:59:08 [NOTICE] La verificación ha acabado satisfactoriamente. fichero=/home/varribas/git/apt-fast/kk/libopenconnect2_5.02-1_amd64.deb
+
+01/29 19:59:08 [NOTICE] Descarga completa: /home/varribas/git/apt-fast/kk/libopenconnect2_5.02-1_amd64.deb
+
+01/29 19:59:08 [NOTICE] La verificación ha acabado satisfactoriamente. fichero=/home/varribas/git/apt-fast/kk/libopencolorio1_1.0.8+repack2~dfsg0-2.1ubuntu2_amd64.deb
+
+01/29 19:59:08 [NOTICE] Descarga completa: /home/varribas/git/apt-fast/kk/libopencolorio1_1.0.8+repack2~dfsg0-2.1ubuntu2_amd64.deb
+
+01/29 19:59:08 [NOTICE] La verificación ha acabado satisfactoriamente. fichero=/home/varribas/git/apt-fast/kk/libopencore-amrnb0_0.1.3-2ubuntu1_amd64.deb
+
+01/29 19:59:08 [NOTICE] Descarga completa: /home/varribas/git/apt-fast/kk/libopencore-amrnb0_0.1.3-2ubuntu1_amd64.deb
+[DL:593KiB UL:0B][#ce7d47 288KiB/599KiB(48%)][#f661dd 160KiB/248KiB(64%)][#aaeedb 16KiB/337KiB(4%)][#97fcb6 48KiB/227KiB(21%)][#e07e43 0B/135KiB(0%)]
+
+01/29 19:59:09 [NOTICE] La verificación ha acabado satisfactoriamente. fichero=/home/varribas/git/apt-fast/kk/libopencryptoki0_2.3.1+dfsg-3ubuntu5_amd64.deb
+
+01/29 19:59:09 [NOTICE] Descarga completa: /home/varribas/git/apt-fast/kk/libopencryptoki0_2.3.1+dfsg-3ubuntu5_amd64.deb
+
+01/29 19:59:09 [NOTICE] La verificación ha acabado satisfactoriamente. fichero=/home/varribas/git/apt-fast/kk/libopencore-amrwb-dev_0.1.3-2ubuntu1_amd64.deb
+
+01/29 19:59:09 [NOTICE] Descarga completa: /home/varribas/git/apt-fast/kk/libopencore-amrwb-dev_0.1.3-2ubuntu1_amd64.deb
+
+01/29 19:59:09 [NOTICE] La verificación ha acabado satisfactoriamente. fichero=/home/varribas/git/apt-fast/kk/libopencore-amrnb0-dbg_0.1.3-2ubuntu1_amd64.deb
+
+01/29 19:59:09 [NOTICE] Descarga completa: /home/varribas/git/apt-fast/kk/libopencore-amrnb0-dbg_0.1.3-2ubuntu1_amd64.deb
+[DL:606KiB UL:0B][#ce7d47 416KiB/599KiB(69%)][#aaeedb 80KiB/337KiB(23%)][#6811c6 16KiB/44KiB(36%)][#b7be3c 16KiB/89KiB(17%)][#669c66 0B/0B]
+
+01/29 19:59:09 [NOTICE] La verificación ha acabado satisfactoriamente. fichero=/home/varribas/git/apt-fast/kk/libopencore-amrwb0_0.1.3-2ubuntu1_amd64.deb
+
+01/29 19:59:09 [NOTICE] Descarga completa: /home/varribas/git/apt-fast/kk/libopencore-amrwb0_0.1.3-2ubuntu1_amd64.deb
+
+01/29 19:59:09 [NOTICE] La verificación ha acabado satisfactoriamente. fichero=/home/varribas/git/apt-fast/kk/libopencsg-dev_1.3.2-2build3_amd64.deb
+
+01/29 19:59:09 [NOTICE] Descarga completa: /home/varribas/git/apt-fast/kk/libopencsg-dev_1.3.2-2build3_amd64.deb
+
+01/29 19:59:09 [NOTICE] La verificación ha acabado satisfactoriamente. fichero=/home/varribas/git/apt-fast/kk/libopencsg-example_1.3.2-2build3_amd64.deb
+
+01/29 19:59:09 [NOTICE] Descarga completa: /home/varribas/git/apt-fast/kk/libopencsg-example_1.3.2-2build3_amd64.deb
+
+01/29 19:59:09 [NOTICE] La verificación ha acabado satisfactoriamente. fichero=/home/varribas/git/apt-fast/kk/libopencsg1-dbg_1.3.2-2build3_amd64.deb
+
+01/29 19:59:09 [NOTICE] Descarga completa: /home/varribas/git/apt-fast/kk/libopencsg1-dbg_1.3.2-2build3_amd64.deb
+
+01/29 19:59:10 [NOTICE] La verificación ha acabado satisfactoriamente. fichero=/home/varribas/git/apt-fast/kk/libopencore-amrwb0-dbg_0.1.3-2ubuntu1_amd64.deb
+
+01/29 19:59:10 [NOTICE] Descarga completa: /home/varribas/git/apt-fast/kk/libopencore-amrwb0-dbg_0.1.3-2ubuntu1_amd64.deb
+
+01/29 19:59:10 [NOTICE] La verificación ha acabado satisfactoriamente. fichero=/home/varribas/git/apt-fast/kk/libopencsv-java_2.3-1_all.deb
+
+01/29 19:59:10 [NOTICE] Descarga completa: /home/varribas/git/apt-fast/kk/libopencsv-java_2.3-1_all.deb
+
+01/29 19:59:10 [NOTICE] La verificación ha acabado satisfactoriamente. fichero=/home/varribas/git/apt-fast/kk/libopenct1_0.6.20-1.2ubuntu1_amd64.deb
+
+01/29 19:59:10 [NOTICE] Descarga completa: /home/varribas/git/apt-fast/kk/libopenct1_0.6.20-1.2ubuntu1_amd64.deb
+[DL:614KiB UL:0B][#ce7d47 576KiB/599KiB(96%)][#aaeedb 176KiB/337KiB(52%)][#28fb65 112KiB/179KiB(62%)][#85b72c 64KiB/129KiB(49%)][#dc0cb0 16KiB/342KiB(4%)]
+
+01/29 19:59:10 [NOTICE] La verificación ha acabado satisfactoriamente. fichero=/home/varribas/git/apt-fast/kk/libopencc1_0.4.3-2build1_amd64.deb
+
+01/29 19:59:10 [NOTICE] Descarga completa: /home/varribas/git/apt-fast/kk/libopencc1_0.4.3-2build1_amd64.deb
+
+01/29 19:59:10 [NOTICE] La verificación ha acabado satisfactoriamente. fichero=/home/varribas/git/apt-fast/kk/libopenct1-dev_0.6.20-1.2ubuntu1_amd64.deb
+
+01/29 19:59:10 [NOTICE] Descarga completa: /home/varribas/git/apt-fast/kk/libopenct1-dev_0.6.20-1.2ubuntu1_amd64.deb
+
+01/29 19:59:11 [NOTICE] La verificación ha acabado satisfactoriamente. fichero=/home/varribas/git/apt-fast/kk/libopencsv-java-doc_2.3-1_all.deb
+
+01/29 19:59:11 [NOTICE] Descarga completa: /home/varribas/git/apt-fast/kk/libopencsv-java-doc_2.3-1_all.deb
+
+01/29 19:59:11 [NOTICE] La verificación ha acabado satisfactoriamente. fichero=/home/varribas/git/apt-fast/kk/libopencsg1_1.3.2-2build3_amd64.deb
+
+01/29 19:59:11 [NOTICE] Descarga completa: /home/varribas/git/apt-fast/kk/libopencsg1_1.3.2-2build3_amd64.deb
+
+01/29 19:59:11 [NOTICE] La verificación ha acabado satisfactoriamente. fichero=/home/varribas/git/apt-fast/kk/libopenctl0.8_0.9.18-0ubuntu1_amd64.deb
+
+01/29 19:59:11 [NOTICE] Descarga completa: /home/varribas/git/apt-fast/kk/libopenctl0.8_0.9.18-0ubuntu1_amd64.deb
+
+01/29 19:59:11 [NOTICE] La verificación ha acabado satisfactoriamente. fichero=/home/varribas/git/apt-fast/kk/libopenctm-dev_1.0.3+dfsg1-1build1_amd64.deb
+
+01/29 19:59:11 [NOTICE] Descarga completa: /home/varribas/git/apt-fast/kk/libopenctm-dev_1.0.3+dfsg1-1build1_amd64.deb
+
+01/29 19:59:11 [NOTICE] La verificación ha acabado satisfactoriamente. fichero=/home/varribas/git/apt-fast/kk/libopenctm1_1.0.3+dfsg1-1build1_amd64.deb
+
+01/29 19:59:11 [NOTICE] Descarga completa: /home/varribas/git/apt-fast/kk/libopenctm1_1.0.3+dfsg1-1build1_amd64.deb
+[DL:617KiB UL:0B][#aaeedb 256KiB/337KiB(75%)][#dc0cb0 128KiB/342KiB(37%)][#913694 112KiB/422KiB(26%)][#85556d 16KiB/140KiB(11%)][#af3c17 16KiB/27KiB(58%)]
+
+01/29 19:59:11 [NOTICE] La verificación ha acabado satisfactoriamente. fichero=/home/varribas/git/apt-fast/kk/ocl-icd-libopencl1_2.1.3-4_amd64.deb
+
+01/29 19:59:11 [NOTICE] Descarga completa: /home/varribas/git/apt-fast/kk/ocl-icd-libopencl1_2.1.3-4_amd64.deb
+
+01/29 19:59:11 [NOTICE] La verificación ha acabado satisfactoriamente. fichero=/home/varribas/git/apt-fast/kk/nvidia-libopencl1-304_304.131-0ubuntu0.14.04.1_amd64.deb
+
+01/29 19:59:11 [NOTICE] Descarga completa: /home/varribas/git/apt-fast/kk/nvidia-libopencl1-304_304.131-0ubuntu0.14.04.1_amd64.deb
+
+01/29 19:59:11 [NOTICE] La verificación ha acabado satisfactoriamente. fichero=/home/varribas/git/apt-fast/kk/nvidia-libopencl1-304-updates_304.131-0ubuntu0.14.04.1_amd64.deb
+
+01/29 19:59:11 [NOTICE] Descarga completa: /home/varribas/git/apt-fast/kk/nvidia-libopencl1-304-updates_304.131-0ubuntu0.14.04.1_amd64.deb
+
+01/29 19:59:12 [NOTICE] La verificación ha acabado satisfactoriamente. fichero=/home/varribas/git/apt-fast/kk/nvidia-libopencl1-331_340.96-0ubuntu0.14.04.1_amd64.deb
+
+01/29 19:59:12 [NOTICE] Descarga completa: /home/varribas/git/apt-fast/kk/nvidia-libopencl1-331_340.96-0ubuntu0.14.04.1_amd64.deb
+
+01/29 19:59:12 [NOTICE] La verificación ha acabado satisfactoriamente. fichero=/home/varribas/git/apt-fast/kk/nvidia-libopencl1-331-updates_340.96-0ubuntu0.14.04.1_amd64.deb
+
+01/29 19:59:12 [NOTICE] Descarga completa: /home/varribas/git/apt-fast/kk/nvidia-libopencl1-331-updates_340.96-0ubuntu0.14.04.1_amd64.deb
+
+01/29 19:59:12 [NOTICE] La verificación ha acabado satisfactoriamente. fichero=/home/varribas/git/apt-fast/kk/nvidia-libopencl1-340_340.96-0ubuntu0.14.04.1_amd64.deb
+
+01/29 19:59:12 [NOTICE] Descarga completa: /home/varribas/git/apt-fast/kk/nvidia-libopencl1-340_340.96-0ubuntu0.14.04.1_amd64.deb
+
+01/29 19:59:12 [NOTICE] La verificación ha acabado satisfactoriamente. fichero=/home/varribas/git/apt-fast/kk/nvidia-libopencl1-340-updates_340.96-0ubuntu0.14.04.1_amd64.deb
+
+01/29 19:59:12 [NOTICE] Descarga completa: /home/varribas/git/apt-fast/kk/nvidia-libopencl1-340-updates_340.96-0ubuntu0.14.04.1_amd64.deb
+
+01/29 19:59:12 [NOTICE] La verificación ha acabado satisfactoriamente. fichero=/home/varribas/git/apt-fast/kk/libopencore-amrnb-dev_0.1.3-2ubuntu1_amd64.deb
+
+01/29 19:59:12 [NOTICE] Descarga completa: /home/varribas/git/apt-fast/kk/libopencore-amrnb-dev_0.1.3-2ubuntu1_amd64.deb
+
+01/29 19:59:12 [NOTICE] La verificación ha acabado satisfactoriamente. fichero=/home/varribas/git/apt-fast/kk/nvidia-libopencl1-346_352.63-0ubuntu0.14.04.1_amd64.deb
+
+01/29 19:59:12 [NOTICE] Descarga completa: /home/varribas/git/apt-fast/kk/nvidia-libopencl1-346_352.63-0ubuntu0.14.04.1_amd64.deb
+
+01/29 19:59:12 [NOTICE] La verificación ha acabado satisfactoriamente. fichero=/home/varribas/git/apt-fast/kk/nvidia-libopencl1-346-updates_352.63-0ubuntu0.14.04.1_amd64.deb
+
+01/29 19:59:12 [NOTICE] Descarga completa: /home/varribas/git/apt-fast/kk/nvidia-libopencl1-346-updates_352.63-0ubuntu0.14.04.1_amd64.deb
+
+01/29 19:59:12 [NOTICE] La verificación ha acabado satisfactoriamente. fichero=/home/varribas/git/apt-fast/kk/libopencv2.4-jni_2.4.8+dfsg1-2ubuntu1_amd64.deb
+
+01/29 19:59:12 [NOTICE] Descarga completa: /home/varribas/git/apt-fast/kk/libopencv2.4-jni_2.4.8+dfsg1-2ubuntu1_amd64.deb
+[DL:613KiB UL:0B][#dc0cb0 288KiB/342KiB(84%)][#913694 256KiB/422KiB(60%)][#105775 0B/17KiB(0%)][#8c3542 0B/17KiB(0%)]
+
+01/29 19:59:12 [NOTICE] La verificación ha acabado satisfactoriamente. fichero=/home/varribas/git/apt-fast/kk/nvidia-libopencl1-352_352.63-0ubuntu0.14.04.1_amd64.deb
+
+01/29 19:59:12 [NOTICE] Descarga completa: /home/varribas/git/apt-fast/kk/nvidia-libopencl1-352_352.63-0ubuntu0.14.04.1_amd64.deb
+
+01/29 19:59:12 [NOTICE] La verificación ha acabado satisfactoriamente. fichero=/home/varribas/git/apt-fast/kk/nvidia-libopencl1-352-updates_352.63-0ubuntu0.14.04.1_amd64.deb
+
+01/29 19:59:12 [NOTICE] Descarga completa: /home/varribas/git/apt-fast/kk/nvidia-libopencl1-352-updates_352.63-0ubuntu0.14.04.1_amd64.deb
+
+01/29 19:59:12 [NOTICE] La verificación ha acabado satisfactoriamente. fichero=/home/varribas/git/apt-fast/kk/libopenct1-dbg_0.6.20-1.2ubuntu1_amd64.deb
+
+01/29 19:59:12 [NOTICE] Descarga completa: /home/varribas/git/apt-fast/kk/libopenct1-dbg_0.6.20-1.2ubuntu1_amd64.deb
+[#913694 400KiB/422KiB(94%) CN:1 DL:165KiB]
+
+01/29 19:59:13 [NOTICE] La verificación ha acabado satisfactoriamente. fichero=/home/varribas/git/apt-fast/kk/libopencv2.4-java_2.4.8+dfsg1-2ubuntu1_all.deb
+
+01/29 19:59:13 [NOTICE] Descarga completa: /home/varribas/git/apt-fast/kk/libopencv2.4-java_2.4.8+dfsg1-2ubuntu1_all.deb
+
+Resultados de la descarga:
+gid   |stat|avg speed  |path/URI
+======+====+===========+=======================================================
+e9a080|OK  |   365KiB/s|/home/varribas/git/apt-fast/kk/libopencc-dbg_0.4.3-2build1_amd64.deb
+f3d583|OK  |   142KiB/s|/home/varribas/git/apt-fast/kk/nvidia-libopencl1-361_361.18-0ubuntu0~gpu14.04.1_amd64.deb
+befc3f|OK  |   139KiB/s|/home/varribas/git/apt-fast/kk/nvidia-libopencl1-358_358.16-0ubuntu0~gpu14.04.2_amd64.deb
+7329a6|OK  |   326KiB/s|/home/varribas/git/apt-fast/kk/libopencryptoki-dev_2.3.1+dfsg-3ubuntu5_amd64.deb
+6ddb39|OK  |    41KiB/s|/home/varribas/git/apt-fast/kk/nvidia-libopencl1-355_355.11-0ubuntu0~gpu14.04.2_amd64.deb
+35ecab|OK  |    49KiB/s|/home/varribas/git/apt-fast/kk/libopencolorio-dev_1.0.8+repack2~dfsg0-2.1ubuntu2_amd64.deb
+f59b12|OK  |    75KiB/s|/home/varribas/git/apt-fast/kk/libopenconnect-dev_5.02-1_amd64.deb
+d882c9|OK  |    18KiB/s|/home/varribas/git/apt-fast/kk/libopencc-dev_0.4.3-2build1_amd64.deb
+237685|OK  |   130KiB/s|/home/varribas/git/apt-fast/kk/libopenconnect2_5.02-1_amd64.deb
+464155|OK  |   339KiB/s|/home/varribas/git/apt-fast/kk/libopencolorio1_1.0.8+repack2~dfsg0-2.1ubuntu2_amd64.deb
+21a6fc|OK  |   259KiB/s|/home/varribas/git/apt-fast/kk/libopencore-amrnb0_0.1.3-2ubuntu1_amd64.deb
+f661dd|OK  |   111KiB/s|/home/varribas/git/apt-fast/kk/libopencryptoki0_2.3.1+dfsg-3ubuntu5_amd64.deb
+e07e43|OK  |   153KiB/s|/home/varribas/git/apt-fast/kk/libopencore-amrwb-dev_0.1.3-2ubuntu1_amd64.deb
+97fcb6|OK  |   164KiB/s|/home/varribas/git/apt-fast/kk/libopencore-amrnb0-dbg_0.1.3-2ubuntu1_amd64.deb
+6811c6|OK  |   140KiB/s|/home/varribas/git/apt-fast/kk/libopencore-amrwb0_0.1.3-2ubuntu1_amd64.deb
+669c66|OK  |    94KiB/s|/home/varribas/git/apt-fast/kk/libopencsg-dev_1.3.2-2build3_amd64.deb
+84f845|OK  |   153KiB/s|/home/varribas/git/apt-fast/kk/libopencsg-example_1.3.2-2build3_amd64.deb
+bd1fdb|OK  |   171KiB/s|/home/varribas/git/apt-fast/kk/libopencsg1-dbg_1.3.2-2build3_amd64.deb
+b7be3c|OK  |   159KiB/s|/home/varribas/git/apt-fast/kk/libopencore-amrwb0-dbg_0.1.3-2ubuntu1_amd64.deb
+122eaf|OK  |   149KiB/s|/home/varribas/git/apt-fast/kk/libopencsv-java_2.3-1_all.deb
+52e9f3|OK  |   152KiB/s|/home/varribas/git/apt-fast/kk/libopenct1_0.6.20-1.2ubuntu1_amd64.deb
+ce7d47|OK  |   159KiB/s|/home/varribas/git/apt-fast/kk/libopencc1_0.4.3-2build1_amd64.deb
+a99b9b|OK  |   279KiB/s|/home/varribas/git/apt-fast/kk/libopenct1-dev_0.6.20-1.2ubuntu1_amd64.deb
+85b72c|OK  |   140KiB/s|/home/varribas/git/apt-fast/kk/libopencsv-java-doc_2.3-1_all.deb
+28fb65|OK  |   141KiB/s|/home/varribas/git/apt-fast/kk/libopencsg1_1.3.2-2build3_amd64.deb
+4e35ea|OK  |   239KiB/s|/home/varribas/git/apt-fast/kk/libopenctl0.8_0.9.18-0ubuntu1_amd64.deb
+0998e9|OK  |    91KiB/s|/home/varribas/git/apt-fast/kk/libopenctm-dev_1.0.3+dfsg1-1build1_amd64.deb
+a5ab1e|OK  |   145KiB/s|/home/varribas/git/apt-fast/kk/libopenctm1_1.0.3+dfsg1-1build1_amd64.deb
+af3c17|OK  |   158KiB/s|/home/varribas/git/apt-fast/kk/ocl-icd-libopencl1_2.1.3-4_amd64.deb
+1e7f2e|OK  |   215KiB/s|/home/varribas/git/apt-fast/kk/nvidia-libopencl1-304_304.131-0ubuntu0.14.04.1_amd64.deb
+ffe3b6|OK  |   234KiB/s|/home/varribas/git/apt-fast/kk/nvidia-libopencl1-304-updates_304.131-0ubuntu0.14.04.1_amd64.deb
+b43e69|OK  |   100KiB/s|/home/varribas/git/apt-fast/kk/nvidia-libopencl1-331_340.96-0ubuntu0.14.04.1_amd64.deb
+24d39a|OK  |   0.9MiB/s|/home/varribas/git/apt-fast/kk/nvidia-libopencl1-331-updates_340.96-0ubuntu0.14.04.1_amd64.deb
+38ad0e|OK  |   240KiB/s|/home/varribas/git/apt-fast/kk/nvidia-libopencl1-340_340.96-0ubuntu0.14.04.1_amd64.deb
+e39391|OK  |   154KiB/s|/home/varribas/git/apt-fast/kk/nvidia-libopencl1-340-updates_340.96-0ubuntu0.14.04.1_amd64.deb
+aaeedb|OK  |    74KiB/s|/home/varribas/git/apt-fast/kk/libopencore-amrnb-dev_0.1.3-2ubuntu1_amd64.deb
+766926|OK  |    94KiB/s|/home/varribas/git/apt-fast/kk/nvidia-libopencl1-346_352.63-0ubuntu0.14.04.1_amd64.deb
+d90181|OK  |   0.9MiB/s|/home/varribas/git/apt-fast/kk/nvidia-libopencl1-346-updates_352.63-0ubuntu0.14.04.1_amd64.deb
+85556d|OK  |   112KiB/s|/home/varribas/git/apt-fast/kk/libopencv2.4-jni_2.4.8+dfsg1-2ubuntu1_amd64.deb
+105775|OK  |   151KiB/s|/home/varribas/git/apt-fast/kk/nvidia-libopencl1-352_352.63-0ubuntu0.14.04.1_amd64.deb
+8c3542|OK  |   170KiB/s|/home/varribas/git/apt-fast/kk/nvidia-libopencl1-352-updates_352.63-0ubuntu0.14.04.1_amd64.deb
+dc0cb0|OK  |   135KiB/s|/home/varribas/git/apt-fast/kk/libopenct1-dbg_0.6.20-1.2ubuntu1_amd64.deb
+913694|OK  |   166KiB/s|/home/varribas/git/apt-fast/kk/libopencv2.4-java_2.4.8+dfsg1-2ubuntu1_all.deb
+
+Leyenda:
+(OK):descarga completada.
